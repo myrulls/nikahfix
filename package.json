@@ -10,6 +10,10 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+   "scripts": {    
+    "predeploy": "npm run build",    
+    "deploy": "gh-pages -d dist", 
+  },
   "dependencies": {
     "@supabase/supabase-js": "^2.46.1",
     "indonesian-badwords": "^1.0.1",
