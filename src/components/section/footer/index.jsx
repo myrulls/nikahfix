@@ -16,9 +16,9 @@ export default function Footer() {
             className="underline"
             target="_blank"
             rel="noreferrer"
-            href="https://www.facebook.com/arifintajul4"
+            href="https://myrul.dev"
           >
-            Tajul Arifin S
+            myrul.dev
           </a>
         </p>
       </div>
